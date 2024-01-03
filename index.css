@@ -1,0 +1,24 @@
+#countdown{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    color: rgb(80, 65, 179);
+    background-color: rgb(240, 245, 248);
+    height: 33vh;
+    width: 100vw;
+}
+
+#orange{
+    display: flex;
+    background-color: rgb(192, 91, 55);
+    width: 100vw;
+    height: 33vh;
+}
+#green{
+    display: flex;
+    background-color:rgb(47, 97, 47);
+    width: 100vw;
+    height: 33vh; 
+}
